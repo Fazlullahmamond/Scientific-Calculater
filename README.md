@@ -5,7 +5,7 @@ The app provides standard and scientific calculator functionality, as well as a 
 Calculator ships regularly with new features and bug fixes. You can get the latest version of Calculator from here.
 
 
-  ![Calculator Screenshot](docs/Images/CalculatorScreenshot.png)
+  ![Calculator Screenshot](calculater.png)
 
 ## Features
 - Standard Calculator functionality which offers basic operations and evaluates commands immediately as they are entered.
